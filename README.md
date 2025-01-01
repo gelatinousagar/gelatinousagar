@@ -1,7 +1,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Jan Agar Barotilla</h1>
 
-<img align="right" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1VX1pR-BloL27N7ckni5So&ust=1735825120832000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMD89c7S1IoDFQAAAAAdAAAAABAE" alt="Coding">
+<img align="right" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gelatinousagar&label=Profile%20views&color=0e75b6&style=flat" alt="gelatinousagar" /> </p>
